@@ -1,4 +1,4 @@
-import React from "react";
+ import React from "react";
 
 //include images into your bundle
 import {Traffic} from "./Traffic.jsx";
