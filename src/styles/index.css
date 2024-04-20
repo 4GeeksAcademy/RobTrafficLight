@@ -30,4 +30,14 @@
         box-shadow: 0px 0px 9px 4px #4eff3e;
     }
 }
+.purple-glow { 
 
+    background-color: #c322d5;
+    box-shadow: 0px 0px 9px 4px #c322d5;
+    animation: purple-glow 1.5s linear infinite alternate;
+}
+@keyframes purple-glow{
+    to {
+        box-shadow: 0px 0px 9px 4px #ff6bfa;
+    }
+}
